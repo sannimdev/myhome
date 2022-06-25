@@ -1,2 +1,5 @@
-# myhome
-구해줘 홈 frontend
+# 구해줘 홈
+
+매물 파싱 앱
+
+사용: Next.js 도전!!!
