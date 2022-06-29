@@ -1,5 +1,3 @@
-# 구해줘 홈
+# 구해줘 홈즈
 
-매물 파싱 앱
-
-사용: Next.js 도전!!!
+1. React.js로 빠른 개발 시작하기 (with Typescript)
